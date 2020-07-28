@@ -10,70 +10,70 @@
    {
       "id": 2,
       "title": "Serum Bottles",
-      "price":9.99,
+      "price":17.99,
       "description":"fringilla est ullamcorper eget",
       "image":"https://image.freepik.com/free-photo/top-view-serum-bottles-arrangement_23-2148549105.jpg"
     },
     {
       "id": 3,
       "title": "Yogurt Bowl",
-      "price":9.99,
+      "price":19.58,
       "description":"eu nisl nunc mi",
       "image":"https://image.freepik.com/free-photo/flat-lay-yogurt-bowl-composition_23-2148601696.jpg"
     },
     {
       "id": 4,
       "title": "Make Up Palette",
-      "price":9.99,
+      "price":13.99,
       "description":"orci porta non pulvinar",
       "image":"https://image.freepik.com/free-photo/make-up-palette_23-2148598542.jpg"
     },
     {
       "id": 5,
       "title": "Cheese with Graped and Almonds and Chestnuts",
-      "price":9.99,
+      "price":40.99,
       "description":"urna neque viverra justo",
       "image":"https://image.freepik.com/free-photo/variety-cheese-blocks-with-grapes-almonds-chestnuts-wooden-desk_23-2148161952.jpg"
     },
     {
       "id": 6,
       "title": "Orange Natural Cosmetics",
-      "price":9.99,
+      "price":15.49,
       "description":"vivamus arcu felis bibendum",
       "image":"https://image.freepik.com/free-photo/top-view-orange-natural-cosmetics_23-2148565319.jpg"
     },
     {
       "id": 7,
       "title": "Plate with Chips",
-      "price":9.99,
+      "price":10.99,
       "description":"vivamus arcu felis bibendum",
       "image":"https://image.freepik.com/free-photo/plate-with-chips_23-2148527394.jpg"
     },
     {
       "id": 8,
       "title": "Orange Natural Cream",
-      "price":9.99,
+      "price":15.49,
       "description":"in hac habitasse platea",
       "image":"https://image.freepik.com/free-photo/orange-natural-cream_23-2148532756.jpg"
     },
     {
       "id": 9,
       "title": "Bath Accessories",
-      "price":9.99,
+      "price":23.99,
       "description":"id leo in vitae",
       "image":"https://image.freepik.com/free-photo/flat-lay-bath-concept-accessories_23-2148419405.jpg"
     },
     {
       "id": 10,
       "title": "Cucumber Body Butter",
-      "price":9.99,
+      "price":27.99,
       "description":"sed cras ornare arcu",
       "image":"https://image.freepik.com/free-photo/flat-lay-cucumbers-body-butter-wooden-table_23-2148305504.jpg"
     },
     {
       "id": 11,
       "title": "Egg Body Butter",
-      "price":9.99,
+      "price":26.99,
       "description":"elit scelerisque mauris pellentesque",
       "image":"https://image.freepik.com/free-photo/top-view-body-butter-eggs-pink-background_23-2148305503.jpg"
     },
@@ -87,28 +87,28 @@
     {
       "id": 13,
       "title": "Comestic Bottles",
-      "price":9.99,
+      "price":19.56,
       "description":"nisi est sit amet",
       "image":"https://image.freepik.com/free-photo/top-view-cosmetic-bottle-plain-background_23-2148306718.jpg"
     },
     {
       "id": 14,
       "title": "Sponge",
-      "price":9.99,
+      "price":37.83,
       "description":"dui nunc mattis enimt",
       "image":"https://image.freepik.com/free-photo/top-view-sponge-plate-with-blue-background_23-2148306723.jpg"
     },
     {
       "id": 15,
       "title": "Delicious Bread",
-      "price":9.99,
+      "price":16.23,
       "description":"pellentesque habitant morbi tristique",
       "image":"https://image.freepik.com/free-photo/front-view-hand-taking-bun-from-bowl_23-2148613549.jpg"
     },
     {
       "id": 16,
       "title": "Carrots Soap",
-      "price":9.99,
+      "price":28.50,
       "description":"sit amet est placerat",
       "image":"https://image.freepik.com/free-photo/front-view-carrots-soap-made-carrots_23-2148287709.jpg"
     },
@@ -122,21 +122,21 @@
     {
       "id": 18,
       "title": "Olive Oil",
-      "price":9.99,
+      "price":36.11,
       "description":"duis ultricies lacus sed",
       "image":"https://image.freepik.com/free-photo/minimalist-olive-oil-bottle-glass_23-2148286014.jpg"
     },
     {
       "id": 19,
       "title": "Honey Cake with Cup Tea",
-      "price":9.99,
+      "price":42.13,
       "description":"viverra aliquet eget sit",
       "image":"https://image.freepik.com/free-photo/honey-cake-medovik-slice-with-cup-tea_114579-728.jpg"
     },
     {
       "id": 20,
       "title": "Red Lipstick",
-      "price":9.99,
+      "price":15.07,
       "description":"amet consectetur adipiscing elit",
       "image":"https://image.freepik.com/free-photo/red-lipstick-white-background_23-2148210683.jpg"
     }
