@@ -2,17 +2,17 @@
   "data":[
     {
       "id": 1,
-      "title": "hello",
+      "title": "Delicious Icecream Waffle cone",
       "price":9.99,
-      "description":"World",
+      "description":"fames ac turpis egestas",
       "image":"https://image.freepik.com/free-photo/delicious-ice-cream-waffle-cone_23-2148150204.jpg"
     },
    {
       "id": 2,
-      "title": "hello",
+      "title": "Serum Bottles",
       "price":9.99,
-      "description":"World",
-      "image":"https://picsum.photos/200/300"
+      "description":"fringilla est ullamcorper eget",
+      "image":"https://image.freepik.com/free-photo/top-view-serum-bottles-arrangement_23-2148549105.jpg"
     }
   ]
 }
