@@ -6,6 +6,13 @@
       "price":9.99,
       "description":"World",
       "image":"xxx.jpg"
+    },
+   {
+      "id": 1,
+      "title": "hello",
+      "price":9.99,
+      "description":"World",
+      "image":"xxx.jpg"
     }
   ]
 }
