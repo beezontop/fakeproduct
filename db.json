@@ -5,14 +5,14 @@
       "title": "hello",
       "price":9.99,
       "description":"World",
-      "image":"xxx.jpg"
+      "image":"https://picsum.photos/200/300"
     },
    {
-      "id": 1,
+      "id": 2,
       "title": "hello",
       "price":9.99,
       "description":"World",
-      "image":"xxx.jpg"
+      "image":"https://picsum.photos/200/300"
     }
   ]
 }
