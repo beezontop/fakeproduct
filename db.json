@@ -1,11 +1,11 @@
 {
-  "posts": [
+   [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "price":9.99,
+      "description":"World",
+      "image":"xxx.jpg"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  
